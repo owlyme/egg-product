@@ -6,3 +6,6 @@
 4. 身份验证： JWT
 ## 客户端选型
 1. vue.js 3 系列技术栈
+
+## 接口
+1. [说明](https://www.yuque.com/xuyuan-so7w4/kb/bwzgcu)
